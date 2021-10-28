@@ -1,0 +1,21 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+C:\Tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+C:\Tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+C:\Tugas\TugasLibrary\bin\Debug\nunit.framework.dll
+C:\Tugas\TugasLibrary\bin\Debug\nunit.framework.xml
+C:\Tugas\TugasLibrary\obj\Debug\TugasLibrary.csprojAssemblyReference.cache
+C:\Tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+C:\Tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CopyComplete
+C:\Tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+C:\Tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
